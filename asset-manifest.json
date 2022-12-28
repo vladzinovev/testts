@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/practice-hacker_news/static/css/main.8e9aa9d6.chunk.css",
+    "main.js": "/practice-hacker_news/static/js/main.3a7cfd0f.chunk.js",
+    "main.js.map": "/practice-hacker_news/static/js/main.3a7cfd0f.chunk.js.map",
+    "runtime-main.js": "/practice-hacker_news/static/js/runtime-main.cf249c5e.js",
+    "runtime-main.js.map": "/practice-hacker_news/static/js/runtime-main.cf249c5e.js.map",
+    "static/js/2.c3e51902.chunk.js": "/practice-hacker_news/static/js/2.c3e51902.chunk.js",
+    "static/js/2.c3e51902.chunk.js.map": "/practice-hacker_news/static/js/2.c3e51902.chunk.js.map",
+    "static/js/3.34a46fdb.chunk.js": "/practice-hacker_news/static/js/3.34a46fdb.chunk.js",
+    "static/js/3.34a46fdb.chunk.js.map": "/practice-hacker_news/static/js/3.34a46fdb.chunk.js.map",
+    "index.html": "/practice-hacker_news/index.html",
+    "static/css/main.8e9aa9d6.chunk.css.map": "/practice-hacker_news/static/css/main.8e9aa9d6.chunk.css.map",
+    "static/js/2.c3e51902.chunk.js.LICENSE.txt": "/practice-hacker_news/static/js/2.c3e51902.chunk.js.LICENSE.txt",
+    "static/media/logo.b054ef45.png": "/practice-hacker_news/static/media/logo.b054ef45.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf249c5e.js",
+    "static/js/2.c3e51902.chunk.js",
+    "static/css/main.8e9aa9d6.chunk.css",
+    "static/js/main.3a7cfd0f.chunk.js"
+  ]
+}
